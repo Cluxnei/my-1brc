@@ -1,6 +1,6 @@
 {
   "engine": {
-    "samples_batch_count": 10000
+    "samples_batch_count": 1000
   },
   "stations": {
     "min": 15,
