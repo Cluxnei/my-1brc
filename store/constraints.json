@@ -1,0 +1,14 @@
+{
+  "engine": {
+    "samples_batch_count": 10000
+  },
+  "stations": {
+    "min": 15,
+    "max": 250
+  },
+  "lines_count": 1000000000,
+  "samples": {
+    "min": -99.4,
+    "max": 99.4
+  }
+}
